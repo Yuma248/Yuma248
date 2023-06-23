@@ -1,9 +1,9 @@
-### Hola !!!
+# Hola !!!
 
 I am Yuma a marine biologist diving the vast Coding Ocean, keep finding myself in bug-infested waters, tangled in the tentacles of errors, and scared of killer Java bytes.
 
 
-# My working home 
+## My working home 
   
   
 <picture>
@@ -14,7 +14,7 @@ I am Yuma a marine biologist diving the vast Coding Ocean, keep finding myself i
 
 
 
-# Languages  
+## Languages  
     
    
 <picture float="left">
