@@ -4,8 +4,10 @@ I am Yuma a marine biologist diving the vast Coding Ocean, keep finding myself i
 
 
 ## My working home 
+<picture>
+  <img alt="Image Alt Text" src="https://github.com/Yuma248/Yuma248/assets/19339965/a973f79f-3236-4154-8e65-0f19c4010ff9">
+</picture>
 
-![Molecular Ecology Lab logo](https://github.com/Yuma248/Yuma248/assets/19339965/a973f79f-3236-4154-8e65-0f19c4010ff9)(https://molecularecology.flinders.edu.au/)
 
 
 
