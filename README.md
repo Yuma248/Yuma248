@@ -4,7 +4,8 @@ I am Yuma a marine biologist diving the vast Coding Ocean, keep finding myself i
 
 ## Languages
 
-Perl ![Perl](https://github.com/Yuma248/Yuma248/assets/19339965/579eed13-c5be-48e0-94f6-739926dd7d61)
+**Perl** 
+![Perl](https://github.com/Yuma248/Yuma248/assets/19339965/e869b642-0361-4ffb-ba86-e78ca90b4f23)
 
 
 
