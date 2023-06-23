@@ -5,7 +5,7 @@ I am Yuma a marine biologist diving the vast Coding Ocean, keep finding myself i
 ## Languages
 
 ![Perl](https://github.com/Yuma248/Yuma248/assets/19339965/02d24c49-24fb-46bd-b62b-e104b7e4f25a) ![Ro](https://github.com/Yuma248/Yuma248/assets/19339965/e472ef95-9fd6-4b83-913e-50fb64d23181)
- ![Python](https://github.com/Yuma248/Yuma248/assets/19339965/cbac7518-e280-4563-8fda-3a1f57866b24)
+ ![Bash](https://github.com/Yuma248/Yuma248/assets/19339965/a3ab8934-3c40-4bc4-bd47-f167d1504024) ![Python](https://github.com/Yuma248/Yuma248/assets/19339965/cbac7518-e280-4563-8fda-3a1f57866b24)
 
 
 **Perl** 
