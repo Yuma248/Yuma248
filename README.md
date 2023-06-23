@@ -2,6 +2,13 @@
 
 I am Yuma a marine biologist diving the vast Coding Ocean, keep finding myself in bug-infested waters, tangled in the tentacles of errors, and scared of killer Java bytes. 
 
+
+## Work 
+
+![Molecular Ecology Lab logo](https://github.com/Yuma248/Yuma248/assets/19339965/a973f79f-3236-4154-8e65-0f19c4010ff9)
+
+
+
 ## Languages
 
 ![Perl](https://github.com/Yuma248/Yuma248/assets/19339965/02d24c49-24fb-46bd-b62b-e104b7e4f25a) ![Ro](https://github.com/Yuma248/Yuma248/assets/19339965/e472ef95-9fd6-4b83-913e-50fb64d23181)
