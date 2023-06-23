@@ -18,8 +18,16 @@ I am Yuma a marine biologist diving the vast Coding Ocean, keep finding myself i
    
 <picture float="left">
   <img alt="PERL" src="https://github.com/Yuma248/Yuma248/assets/19339965/02d24c49-24fb-46bd-b62b-e104b7e4f25a">
+</picture>
+<picture float="left">
   <img alt="R" src="https://github.com/Yuma248/Yuma248/assets/19339965/e472ef95-9fd6-4b83-913e-50fb64d23181">
+</picture>
+<picture float="left">
   <img alt="BASH" src="https://github.com/Yuma248/Yuma248/assets/19339965/a3ab8934-3c40-4bc4-bd47-f167d1504024">
+</picture>
+<picture float="left">
   <img alt="PYTHON" src="https://github.com/Yuma248/Yuma248/assets/19339965/cbac7518-e280-4563-8fda-3a1f57866b24">
+</picture>
+<picture float="left">
   <img alt="JAVA" src="https://github.com/Yuma248/Yuma248/assets/19339965/ca8f807f-ab62-453e-a910-628fb664077f">
 </picture>
