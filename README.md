@@ -38,7 +38,7 @@ I am Yuma a marine biologist diving the vast Coding Ocean, keep finding myself i
   <a href="mailto:jonathan.sandoval-castillo@flinders.edu.au"><img alt="MAIL" src="https://github.com/Yuma248/Yuma248/assets/19339965/fd5d9341-1cdc-45b8-890a-58d864d870b8">
 </picture>
 <picture float="left">
-  <a href="https://twitter.com/Yuma_More" target="_blank"><img alt="TWITTER" src="https://github.com/Yuma248/Yuma248/assets/19339965/e9a5c4b1-3a1f-4084-a1ae-331f545451bf">
+  <a href="https://twitter.com/Yuma_More" target="_blank"><img alt="TWITTER" src="https://github.com/Yuma248/Yuma248/assets/19339965/2957c1d3-9590-4e94-8088-46640137f003">
 </picture>
 <picture float="left">
   <a href="https://www.facebook.com/yumamore" target="_blank"><img alt="TWITTER" src="https://github.com/Yuma248/Yuma248/assets/19339965/38cbb9ce-fa46-450e-ba16-2530b8b47f1d">
