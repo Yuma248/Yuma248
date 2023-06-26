@@ -35,7 +35,7 @@ I am Yuma a marine biologist diving the vast Coding Ocean, keep finding myself i
 
 ## Contact 
 <picture float="left">
-  <img alt="TWITTER" src="https://github.com/Yuma248/Yuma248/assets/19339965/e9a5c4b1-3a1f-4084-a1ae-331f545451bf">
+  <a href="@Yuma_More" target="_blank"><img alt="TWITTER" src="https://github.com/Yuma248/Yuma248/assets/19339965/e9a5c4b1-3a1f-4084-a1ae-331f545451bf">
 </picture>
 <picture float="left">
   <img alt="TWITTER" src="https://github.com/Yuma248/Yuma248/assets/19339965/38cbb9ce-fa46-450e-ba16-2530b8b47f1d">
