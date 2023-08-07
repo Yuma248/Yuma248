@@ -45,7 +45,7 @@ I am Yuma a marine biologist diving the vast Coding Ocean, keep finding myself i
 </picture>
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 <div>
 <!--   <a href="https://github.com/Yuma248"> -->
    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuma248&theme=radical&hide_border=false"/>
