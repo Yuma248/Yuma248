@@ -43,3 +43,12 @@ I am Yuma a marine biologist diving the vast Coding Ocean, keep finding myself i
 <picture float="left">
   <a href="https://www.facebook.com/yumamore" target="_blank"><img alt="TWITTER" src="https://github.com/Yuma248/Yuma248/assets/19339965/38cbb9ce-fa46-450e-ba16-2530b8b47f1d">
 </picture>
+
+
+# 📊 GitHub Stats:
+<div>
+<!--   <a href="https://github.com/Yuma248"> -->
+   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuma248&theme=radical&hide_border=false"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuma248&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<!--   </a> -->
+</div>
